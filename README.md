@@ -1,8 +1,6 @@
-# EVDOCENTE
+# Aplicación web para la automatización del proceso de evaluación docente en la Universidad Tecnológica del Mayab (EVDOCENTE)
 
 ## 📌 descripción
-
-Aplicación web para la automatización del proceso de evaluación docente en la Universidad Tecnológica del Mayab
 
 Esta aplicación permite a estudiantes, profesores y personal administrativo realizar evaluaciones mediante un formulario web. Los resultados se procesan automáticamente a través de operaciones matemáticas y se presentan de forma clara y comprensible.
 
