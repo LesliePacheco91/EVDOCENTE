@@ -17,5 +17,29 @@ El desarrollo se llevó a cabo utilizando los lenguajes ![PHP](https://img.shiel
 ## 📁 perfiles desarrollados
 
 ### perfil alumno
+
+![Perfil del alumno](DOCUMENTOS/img/EV_Docente_11.png)
+
+
 ### profesor profesor
+![Lista de evaluaciones del profesor](DOCUMENTOS/img/EV_Docente_13.png)
+
+#### Modulo de restricción de horario
+![Vista nueva restriccion](DOCUMENTOS/img/EV_Docente_12.png)
+![Lista de restricciones](DOCUMENTOS/img/EV_Docente_17.png)
+
+
 ### perfil admin
+![Vista inicio](DOCUMENTOS/img/EV_Docente_10.png)
+![Vista principal](DOCUMENTOS/img/EV_Docente_14.png)
+![Nueva evaluacion](DOCUMENTOS/img/EV_Docente_15.png)
+![modificar_fecha](DOCUMENTOS/img/EV_Docente_16.png)
+![Lista de cuatrimestres](DOCUMENTOS/img/EV_Docente_19.png)
+![grupos](DOCUMENTOS/img/EV_Docente_18.png)
+![Detalle del grupo](DOCUMENTOS/img/EV_Docente_20.png)
+![Carga Académica](DOCUMENTOS/img/EV_Docente_4.png)
+![Lista de restrucciones aceptadas](DOCUMENTOS/img/EV_Docente_7.png)
+![Plan de observación docente](DOCUMENTOS/img/EV_Docente_8.png)
+![Resultados](DOCUMENTOS/img/EV_Docente_9.png)
+
+
